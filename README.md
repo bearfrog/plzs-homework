@@ -1,2 +1,4 @@
 # plzs-homework
-For homework upload
+魏老师的零基础编程课第一期交作业专用仓库。
+
+课程详细信息请关注微信视频号：魏永民讲编程。
